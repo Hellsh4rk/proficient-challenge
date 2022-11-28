@@ -5,7 +5,7 @@ const Home = () => {
         <div>
             <div className="header">
                 <div className="vectorHome">
-                    <img src="../images/VectorHome.png" alt="VectorHome" />
+                    <img src="../images/cil_house.png" alt="VectorHome" />
                 </div>
                 <div className="headerText">
                     <p className="headerText1">How we work</p>
